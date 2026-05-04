@@ -1,0 +1,3 @@
+[submodule "rgthree-comfy"]
+	path = rgthree-comfy
+	url = https://github.com/ABC-iRobotics/rgthree-comfy
