@@ -1,3 +1,9 @@
 [submodule "rgthree-comfy"]
 	path = rgthree-comfy
 	url = https://github.com/ABC-iRobotics/rgthree-comfy
+[submodule "ComfyUI-KJNodes"]
+	path = ComfyUI-KJNodes
+	url = https://github.com/kijai/ComfyUI-KJNodes
+[submodule "comfyui_controlnet_aux"]
+	path = comfyui_controlnet_aux
+	url = https://github.com/Fannovel16/comfyui_controlnet_aux
