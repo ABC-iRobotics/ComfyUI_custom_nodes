@@ -7,3 +7,9 @@
 [submodule "comfyui_controlnet_aux"]
 	path = comfyui_controlnet_aux
 	url = https://github.com/Fannovel16/comfyui_controlnet_aux
+[submodule "ComfyUI-VideoHelperSuite"]
+	path = ComfyUI-VideoHelperSuite
+	url = https://github.com/kosinkadink/ComfyUI-VideoHelperSuite
+[submodule "ComfyUI-GGUF"]
+	path = ComfyUI-GGUF
+	url = https://github.com/city96/ComfyUI-GGUF
