@@ -13,3 +13,6 @@
 [submodule "ComfyUI-GGUF"]
 	path = ComfyUI-GGUF
 	url = https://github.com/city96/ComfyUI-GGUF
+[submodule "ComfyUI-Video-Depth-Anything"]
+	path = ComfyUI-Video-Depth-Anything
+	url = https://github.com/yuvraj108c/ComfyUI-Video-Depth-Anything
